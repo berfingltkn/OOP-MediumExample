@@ -1,0 +1,7 @@
+C:\Users\gberf\source\repos\Oop2\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\gberf\source\repos\Oop2\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\gberf\source\repos\Oop2\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\gberf\source\repos\Oop2\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\gberf\source\repos\Oop2\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\gberf\source\repos\Oop2\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\gberf\source\repos\Oop2\Polymorphism\obj\Debug\Polymorphism.pdb

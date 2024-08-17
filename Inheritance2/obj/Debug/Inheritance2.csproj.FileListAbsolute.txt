@@ -1,0 +1,7 @@
+C:\Users\gberf\source\repos\Oop2\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\gberf\source\repos\Oop2\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\gberf\source\repos\Oop2\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\gberf\source\repos\Oop2\Inheritance2\obj\Debug\Inheritance2.csproj.AssemblyReference.cache
+C:\Users\gberf\source\repos\Oop2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\gberf\source\repos\Oop2\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\gberf\source\repos\Oop2\Inheritance2\obj\Debug\Inheritance2.pdb
